@@ -5,6 +5,9 @@ import android.view.View;
 import androidx.core.view.ViewCompat;
 import androidx.viewpager.widget.ViewPager;
 
+/**
+ * Created by ljy on 2020/4/20.
+ */
 
 public class PageTransformer implements ViewPager.PageTransformer {
 

@@ -22,6 +22,10 @@ import com.example.viewpagetransformdialogfragment.R;
 
 import java.util.ArrayList;
 
+/**
+ * Created by ljy on 2020/4/20.
+ */
+
 public class ViewpagerTransFromDialogFragment extends DialogFragment {
 
     public static final String TAG = "ViewpagerTicketDialogFr";

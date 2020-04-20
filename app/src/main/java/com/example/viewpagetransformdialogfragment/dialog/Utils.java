@@ -2,6 +2,10 @@ package com.example.viewpagetransformdialogfragment.dialog;
 
 import android.content.Context;
 
+/**
+ * Created by ljy on 2020/4/20.
+ */
+
 public class Utils {
     /**
      * 根据手机的分辨率从 dp 的单位 转成为 px(像素)
